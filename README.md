@@ -22,17 +22,17 @@
 - Embedding模型： TencentBAC/Conan-embedding-v1
 
 ### 应用介绍
-![](./imgs/视频课件提取Agent应用介绍-图片-1.jpg)
+![](./imgs/1.jpg)
 
-![](./imgs/视频课件提取Agent应用介绍-图片-2.jpg)
+![](./imgs/2.jpg)
 
-![](./imgs/视频课件提取Agent应用介绍-图片-3.jpg)
+![](./imgs/3.jpg)
 
-![](./imgs/视频课件提取Agent应用介绍-图片-4.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-5.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-6.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-7.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-8.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-9.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-10.jpg)
-![](./imgs/视频课件提取Agent应用介绍-图片-11.jpg)
+![](./imgs/4.jpg)
+![](./imgs/5.jpg)
+![](./imgs/6.jpg)
+![](./imgs/7.jpg)
+![](./imgs/8.jpg)
+![](./imgs/9.jpg)
+![](./imgs/10.jpg)
+![](./imgs/11.jpg)
